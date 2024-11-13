@@ -1,12 +1,10 @@
 # Crypto Dashboards - Powered by Dune Analytics
 
-![Dune Analytics](https://dune.com/assets/images/dune-logo.png)  
-
 *Dune Analytics is a powerful data platform that allows users to query and visualize blockchain data in real-time. With an open-source, community-driven approach, Dune is perfect for anyone looking to dive deep into on-chain analysis.*
 
 ## 📊 Crypto Dashboards
 
-Welcome to the Crypto Dashboards repository! This repo contains a collection of dashboards built using Dune Analytics, offering insights across various sectors of the cryptocurrency ecosystem. These dashboards are organized by key crypto contexts such as LRTs, LSTs, Lending, and more.
+Welcome to my crypto data dashboards! This repo contains a collection of dashboards built using Dune Analytics, offering insights across various sectors of the cryptocurrency ecosystem. These dashboards are organized by key crypto contexts such as LRTs, LSTs, Lending, and more.
 
 ### 🔗 Live Dashboards by Context:
 
@@ -27,23 +25,20 @@ Welcome to the Crypto Dashboards repository! This repo contains a collection of 
 - **[Other LST Dashboards](#)**
   - ...
 
-#### DEXs
-- **[Fluid](#)**
-  - ...
-
-- **[Contango](#)**
-  - ...
-
 #### Money Markets
-- **[Fluid](#)**
-  - ...
+- **[LoopFi Dashboard](https://dune.com/rangonomics/loopfi)**
+  - Loop pool party depositor growth
+  - Loop pool party TVL growth and flow
+  - Depositor profile analysis
 
-- **[Contango](#)**
-  - ...
-
-#### Starknet
-- **[Growth](#)**
-  - ...
+ #### Money Markets
+- **[Zero1 Labs (DEAI) Dashboard](https://dune.com/rangonomics/deai-staking)**
+  - DEAI staking flow
+  - DEAI staking pool splits
+  - Depositor profile analysis
+  - Coin holder profile analysis
+  - Coin trader profitability analysis
+  - Coin indicators
 
 ## 💬 Feedback
 
